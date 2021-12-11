@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Has been blogging since 2010. Likes to experiment with different programming languages ​​and design tools. But he doesn't fully learn any of them. With Blogspot, it can create sites in many categories
-
+I've been blogging since 2010. I like to try different programming languages and design tools. But I can't really learn any of them. I produce content and themes related to Blogger/Blogspot.
 <!--
 **zaferzent/zaferzent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
