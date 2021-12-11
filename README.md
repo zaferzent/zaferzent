@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Has been blogging since 2010. Likes to experiment with different programming languages ​​and design tools. But he doesn't fully learn any of them. With Blogspot, it can create sites in many categories
+
 <!--
 **zaferzent/zaferzent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
