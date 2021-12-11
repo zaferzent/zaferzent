@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been blogging since 2010. I like to try different programming languages and design tools. But I can't really learn any of them. I produce content and themes related to Blogger/Blogspot.
+My name is Zafer i live in Istanbul/Turkey. I've been blogging since 2010. I like to try different programming languages and design tools. But I can't really learn any of them. I produce content and themes related to Blogger/Blogspot.
 <!--
 **zaferzent/zaferzent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
