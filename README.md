@@ -3,7 +3,7 @@
 My name is Zafer.
 I live in Istanbul/Turkey. I blog as a hobby and I am interested in web programming. I started programming with pascal during high school education in 2004. In the following years I was interested in Visual Basic, Delphi, Asp. During my university years, I studied C and PHP. As the years of education ended, I continued with web programming, which I liked more. But now I've forgotten most of it. As you can see, I have a great programming background, but now I forgot a lot of programming language. 😄 My real job is not programming related, Telecommunications industry.
 
-I like to try different programming languages and design tools. But I can't really learn any of them. I produce content and themes related to Blogger/Blogspot.
+I like to try different programming languages and design tools. I produce content and themes related to Blogger/Blogspot.
 <!--
 **zaferzent/zaferzent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
