@@ -89,6 +89,13 @@ If you like my stuff, please consider [**sponsoring me**](https://github.com/spo
       <td><img alt="Stars" src="https://img.shields.io/github/stars/zaferzent/MiniNewspaper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/zaferzent/MiniNewspaper?style=flat-square&labelColor=343b41"/></td>
     </tr>
+
+<tr>
+    <td><a href="https://github.com/zaferzent/Aspire"><b>Aspire</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/zaferzent/Aspire?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/zaferzent/Aspire?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
     
   </tbody>
 </table>
