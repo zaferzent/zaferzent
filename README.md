@@ -5,9 +5,6 @@ I live in Adiyaman/Turkey. I blog as a hobby and I am interested in web programm
 
 I like to try different programming languages and design tools. I produce content and themes related to Blogger/Blogspot.
 
-[![Zafer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaferzent)](https://github.com/anuraghazra/github-readme-stats)
-
-
 If you like my stuff, please consider [**sponsoring me**](https://github.com/sponsors/zaferzent).
 
 <h4>Latest projects</h4>
